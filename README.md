@@ -1,1 +1,1 @@
-# Sensor-de-temperatura-com-arduino
+# Sensor-de-temperatura-arduino
